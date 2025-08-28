@@ -1,0 +1,13 @@
+#link_logo{
+    align-items: center;
+    display: flex;
+    margin-left: 24px;
+}
+
+#link_logo img {
+  max-height: 300px;
+}
+
+.logo-area{
+    padding-left: 50px;
+}
